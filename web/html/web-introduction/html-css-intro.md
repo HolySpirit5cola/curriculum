@@ -34,7 +34,16 @@ When creating a website, all of your unique HTML and CSS files for the same webs
     contact.html
   /css_files
     main.css
-    contact.css
+    contact.css![1000002743](https://github.com/user-attachments/assets/77721dfc-246b-4df1-bc6a-d02809d20316)
+![1000003152](https://github.com/user-attachments/assets/ec5e037d-5db5-41fc-bd92-f2a0c31c4cdc)
+![1000003195](https://github.com/user-attachments/assets/5180f987-9760-4b84-a533-28974becb9e2)
+![1000003194](https://github.com/user-attachments/assets/5751f85f-4c36-4e0d-86f4-91a4570efdea)
+![1000003193](https://github.com/user-attachments/assets/61e5cea9-5a07-4d9c-8bfb-c53676880ec6)
+![1000003196](https://github.com/user-attachments/assets/9146e39e-8062-4f20-a1ea-8f73691ae2f2)
+![1000003197](https://github.com/user-attachments/assets/c7e77a00-2df0-47d2-b9c2-a48bd7fe5a65)
+![1000003237](https://github.com/user-attachments/assets/e3bb2f6a-be45-4151-848f-beeaf5ec0ead)
+![1000003193](https://github.com/user-attachments/assets/c1bfe307-90ca-499e-89e2-198e92635fe8)
+
 ```
 
 
